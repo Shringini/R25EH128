@@ -7,3 +7,6 @@ C Programming | Python | Git | GitHub | Data Analysis | Problem Solving
 ## Projects
 - Smart Blind Stick
 - Personal Portfolio Website
+
+## Current Learning
+Currently improving my programming, GitHub, data analysis, and software development skills.
