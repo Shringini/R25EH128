@@ -3,3 +3,7 @@ I am a Computer Science (Artificial Intelligence and Data Science) student inter
 
 ## Skills
 C Programming | Python | Git | GitHub | Data Analysis | Problem Solving
+
+## Projects
+- Smart Blind Stick
+- Personal Portfolio Website
